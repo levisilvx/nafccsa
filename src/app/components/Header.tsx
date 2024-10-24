@@ -1,4 +1,4 @@
-import { AlignJustify, User } from 'lucide-react';
+import { User } from 'lucide-react';
 import Image from 'next/image';
 import logo from '../../../public/logo.svg'
 
