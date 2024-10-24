@@ -273,7 +273,7 @@ export default function Home() {
                   (88) 98893-8025
                 </a>
                 <a 
-                  href="mailto:levisilva690@gmail.com"
+                  href="mailto:naf.ccsa@ufca.edu.br"
                   className="
                     flex flex-row items-center gap-2 py-2 px-3
                     font-display font-bold bg-zinc-100 rounded-md"
