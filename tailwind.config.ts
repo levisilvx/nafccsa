@@ -9,9 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        naf: { 500: '#00286E'},
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ['var(--font-inter)'],
+        display: ['var(--font-space-grotesk)']
+      }
     },
   },
   plugins: [],
